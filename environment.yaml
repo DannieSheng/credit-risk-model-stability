@@ -1,0 +1,13 @@
+name: credit_risk
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pip
+pip:
+  - nbconvert
